@@ -29,6 +29,16 @@ const locations = [
         location: "Hobart, TAS 7000",
         subLucation: "Coles Sandy Bay"
     },
+    // act
+    {
+        location: "Acton, ACT 2601",
+        subLucation: "Coles Canberra Civic"
+    },
+    // nt
+    {
+        location: "Casuarina, NT 0810",
+        subLucation: "Coles Casuarina - Drive-through"
+    },
 ]
 
 export default locations;
